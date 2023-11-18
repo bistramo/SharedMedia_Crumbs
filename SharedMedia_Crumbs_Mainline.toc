@@ -1,0 +1,10 @@
+## Title: SharedMedia_Crumbs
+## Notes: SharedMedia for Crumbs
+## Author: bistramo
+## Version: 10.2.0.0
+## Interface: 100200
+## IconTexture: Interface\AddOns\SharedMedia_Crumbs\Crumbs_Logo
+
+embeds.xml
+
+SharedMedia.lua
